@@ -4,7 +4,7 @@ Dans cet article nous allons découvrir étape par étape comment déployer un p
 
 Schema:
 
-![alt text](schema.jpg "Logo Title Text 1")
+![alt text](schema .jpg "Logo Title Text 1")
 
 ## Prérequis
 
