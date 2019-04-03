@@ -386,7 +386,7 @@ Dans le fichier pom.xml:
 
     voir [ici](https://docs.travis-ci.com/user/environment-variables/)
 
-## configurer les fichiers .travis.yml et le fichier .publish.sh
+## Configurer les fichiers .travis.yml et le fichier .publish.sh
 
 1. Dans le fichier .travis.yml ajoutez la section suivante:
 
