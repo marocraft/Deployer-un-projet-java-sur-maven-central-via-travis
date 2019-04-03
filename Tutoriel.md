@@ -1,4 +1,4 @@
-# How to deploy to Maven Central by Travis CI
+# Comment déployer un projet Java dans Maven Central en utilisant Travis.
 
 Dans cet article nous allons découvrir étape par étape comment déployer un projet java dans Maven central via Travis.
 
