@@ -281,7 +281,7 @@ Dans le fichier pom.xml:
     </plugin>
     ```
 
-7. Add the source and the javadoc plugin
+7. Ajoutez le plugin de source et javadoc
 
     ```xml
     <plugin>
