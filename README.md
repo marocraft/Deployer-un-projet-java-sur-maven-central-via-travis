@@ -8,9 +8,9 @@ Schema:
 
 ## Prérequis
 
-* [Un projet déposé sur Github](github.com)
+* [Un projet déposé sur Github](https://github.com)
 
-* [Un Compte Travis](travis-ci.org)
+* [Un Compte Travis](https://travis-ci.org)
 
 * [Lier Travis avec un projet java](https://github.com/skokaina/devops)
 
